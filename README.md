@@ -1,4 +1,4 @@
-# TextualRetrieval
+# Textual Retrieval
 The mid-term project for python course.
 
 ## Realized function
